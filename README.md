@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Frontend & AI Enthusiast
+# 👋 Hi, I'm Darshan Dharmar 
 
 Welcome to my GitHub profile! I'm a passionate **Computer Science (AI) student** who loves building beautiful, fast, and meaningful web experiences while exploring the world of **Artificial Intelligence**.
  
